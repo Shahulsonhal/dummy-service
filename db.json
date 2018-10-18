@@ -1,1 +1,15 @@
-{ "status": "ok", "result": { "projects": [ { "id": "", "name": "", "description": "", "type": "", "status": "", "scrum-time": "", } ] } }
+{
+   "status":"ok",
+   "result":{
+      "projects":[
+         {
+            "id":"1",
+            "name":"project1",
+            "description":"project1 description",
+            "type":"internal",
+            "status":"false",
+            "scrum-time":"03:30"
+         }
+      ]
+   }
+}
